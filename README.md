@@ -3,7 +3,7 @@
 # Hi 👋, I'm Md. Fardul Islam
 
 ### CSE Student • Web Development • Software Engineering • Exploring AI
-[![Follow](https://img.shields.io/badge/Follow-Instagram-E4405F?logo=FOLLOW&logoColor=white)](https://www.instagram.com/md_fardul_islam/)
+[![Follow @md_fardul_islam](https://img.shields.io/badge/Follow-@md__fardul__islam-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/md_fardul_islam/)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MD-FARDUL-ISLAM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
