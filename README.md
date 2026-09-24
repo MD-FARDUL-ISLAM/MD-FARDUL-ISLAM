@@ -15,11 +15,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a **Computer Science & Engineering student**
-- 💻 Currently learning **Web Development & Software Engineering**
-- 🤖 Exploring **Artificial Intelligence** and its applications
+- 💻 Currently focused on **Web Development & Software Engineering**
+- 🗄️ Learning **Database Management and Backend Development**
 - 🚀 Building practical projects to improve my development skills
 - 🧩 Interested in **problem solving, software development and technology**
-- 📚 Always learning something new and improving step by step
+- 🤖 Planning to explore **Artificial Intelligence & Machine Learning** in the future
+- 📚 Continuously learning through academic coursework and personal projects
 
 ---
 
@@ -32,7 +33,8 @@
 - REST API Development
 - Authentication & JWT
 - Software Engineering
-- Artificial Intelligence
+- Database Management Systems
+- Web Engineering
 
 ---
 
@@ -42,6 +44,29 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
+---
+
+## 🎓 CSE Academic Journey
+
+My academic journey covers the fundamental and advanced areas of Computer Science:
+
+- 💻 Programming & Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 📐 Discrete Mathematics & Theory of Computation
+- 🗄️ Database Management Systems
+- 🌐 Web Application Development & Web Engineering
+- ⚙️ Software Engineering
+- 🖥️ Computer Architecture & Operating Systems
+- 🌐 Computer Networks
+- 🔧 Compiler Design
+- 📱 Mobile Application Development
+- 🔌 Microprocessors & Microcontrollers
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🎨 Computer Graphics
+- 🔐 Cryptography & Network Security
+- 📊 Digital Signal Processing
+- 🚀 Thesis / Software Project
 ---
 
 ## 🚀 Featured Projects
@@ -66,6 +91,19 @@ A React-based application for discovering and displaying meal information using 
 
 ---
 
+## 💡 Areas of Interest
+
+- 🌐 Web Development
+- ⚙️ Software Engineering
+- 🗄️ Database Systems
+- 🧩 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔐 Cybersecurity
+- 🚀 Software Development
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -81,16 +119,22 @@ A React-based application for discovering and displaying meal information using 
 
 ## 🎯 My Goal
 
-> Build strong foundations in software engineering, become a better problem solver, and gradually explore AI/ML through practical projects.
+To build strong foundations in **software engineering and problem solving**, develop practical software projects, and gradually explore **Artificial Intelligence and Machine Learning**.
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/MD-FARDUL-ISLAM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/MD-FARDUL-ISLAM">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-fardul-islam-58a29b1b2/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
